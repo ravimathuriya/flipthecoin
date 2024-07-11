@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flipthecoin/static/css/main.faf5fd4b.css",
+    "main.js": "/flipthecoin/static/js/main.54cdfc21.js",
+    "static/js/453.e7aefe8f.chunk.js": "/flipthecoin/static/js/453.e7aefe8f.chunk.js",
+    "index.html": "/flipthecoin/index.html",
+    "main.faf5fd4b.css.map": "/flipthecoin/static/css/main.faf5fd4b.css.map",
+    "main.54cdfc21.js.map": "/flipthecoin/static/js/main.54cdfc21.js.map",
+    "453.e7aefe8f.chunk.js.map": "/flipthecoin/static/js/453.e7aefe8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf5fd4b.css",
+    "static/js/main.54cdfc21.js"
+  ]
+}
